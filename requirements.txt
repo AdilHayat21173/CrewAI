@@ -1,6 +1,7 @@
-crewai
-crewai_tools
-langchain_community
 ipykernel
 python-dotenv
 langchain_groq
+crewai
+langchain_community
+crewai_tools
+
